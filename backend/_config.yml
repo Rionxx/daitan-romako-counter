@@ -1,0 +1,4 @@
+exclude:
+  - backend/node_modules/handlebars/release-notes.md
+  - backend/node_modules/@jest/reporters/node_modules/brace-exp node_modules from Jekyll/Liquid processing.**
+  - Add the followingansion/README.md
